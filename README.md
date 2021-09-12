@@ -1,0 +1,2 @@
+# List root directories
+#### Some time ago I had the problem of cpp not having a "ListRootDirs" function for Windows NT based filesystems. I decided to publish the very simple function for people with the same problem as I had weeks ago.
